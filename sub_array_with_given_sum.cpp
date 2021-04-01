@@ -11,7 +11,7 @@ class Solution{
       while(i< n && j<n){
           if(sum == s){
               ans.push_back(i+1);
-              ans.push_back(j+1);
+              ans.push_back(j+1);s
               return ans;
           }
           
